@@ -3,7 +3,7 @@
     "lists": [
         {
             "name": "Full Names",
-            "url": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/full-names.txt"
+            "path": "full-names.txt"
         },
         {
             "name": "First Names",
