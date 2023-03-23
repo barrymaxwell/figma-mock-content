@@ -2,16 +2,12 @@
     "name": "Default",
     "lists": [
         {
-            "name": "First Names",
-            "url": "https://raw.githubusercontent.com/dominictarr/random-name/master/first-names.txt"
+            "name": "Full Names",
+            "url": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/full-names.txt"
         },
         {
             "name": "Last Names",
-            "path": "last-names.txt"
-        },
-        {
-            "name": "Addresses",
-            "path": "addresses.txt"
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/last-names.txt"
         }
     ]
 }
