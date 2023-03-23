@@ -26,8 +26,12 @@
             "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/company-names.txt"
         },
         {
-            "name": "Date Stamp",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/date-stamp.txt"
+            "name": "Dates",
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/dates.txt"
+        },
+        {
+            "name": "Dates and Times",
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/dates-times.txt"
         }
     ]
 }
