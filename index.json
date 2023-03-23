@@ -7,31 +7,31 @@
         },
         {
             "name": "First Names",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/first-names.txt"
+            "path": "first-names.txt"
         },
         {
             "name": "Last Names",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/last-names.txt"
+            "path": "last-names.txt"
         },
         {
             "name": "Emails Weyland",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/emails-weyland.txt"
+            "path": "emails-weyland.txt"
         },
         {
             "name": "Emails Tyrell",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/emails-tyrell.txt"
+            "path": "emails-tyrell.txt"
         },
         {
             "name": "Company Names",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/company-names.txt"
+            "path": "company-names.txt"
         },
         {
             "name": "Dates",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/dates.txt"
+            "path": "dates.txt"
         },
         {
             "name": "Dates and Times",
-            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/dates-times.txt"
+            "path": "dates-times.txt"
         }
     ]
 }
