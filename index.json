@@ -1,13 +1,29 @@
 {
-    "name": "Default",
+    "name": "SkyKick",
     "lists": [
         {
             "name": "Full Names",
             "url": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/full-names.txt"
         },
         {
+            "name": "First Names",
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/first-names.txt"
+        },
+        {
             "name": "Last Names",
             "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/last-names.txt"
+        },
+        {
+            "name": "Emails Weyland",
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/email-weyland.txt"
+        },
+        {
+            "name": "Emails Tyrell",
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/email-tyrell.txt"
+        },
+        {
+            "name": "Company Names",
+            "path": "https://raw.githubusercontent.com/barrymaxwell/figma-mock-content/main/company-names.txt"
         }
     ]
 }
